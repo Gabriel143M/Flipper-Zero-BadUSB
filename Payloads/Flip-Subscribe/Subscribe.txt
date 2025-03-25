@@ -6,7 +6,7 @@ REM     Description: This payload is meant to make your target subscribe to your
 
 REM     Target: Windows 10, 11
 
-REM Your youtube url needs to be inside both double and single quotes   " ' url ' "   
+REM Your youtube url needs to be inside both double and single quotes   " ' https://www.youtube.com/@CXEO_FN ' "   
 
 GUI r
 DELAY 500
